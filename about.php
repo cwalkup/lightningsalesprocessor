@@ -31,7 +31,7 @@ include_once "includes/header.php";
       </tr>
       <tr>
         <td>Chase Walkup</td>
-        <td>mary@example.com</td>
+        <td>Database Modeling, Database Maintenance, Page Testing</td>
       </tr>
       <tr>
         <td>Rebecca Chase</td>
